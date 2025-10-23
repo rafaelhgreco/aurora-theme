@@ -1,0 +1,23 @@
+{
+    "name": "aurora-theme",
+    "displayName": "Aurora Theme",
+    "description": "This a Aurora theme",
+    "publisher": "rafaelhenriquegreco",
+    "license": "MIT",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.105.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aurora Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aurora Theme-color-theme.json"
+            }
+        ]
+    }
+}
