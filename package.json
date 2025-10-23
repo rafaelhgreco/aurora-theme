@@ -1,9 +1,13 @@
 {
-    "name": "aurora-theme",
+    "name": "aurora-coffee-theme",
     "displayName": "Aurora Theme",
     "description": "This a Aurora theme",
     "publisher": "rafaelhenriquegreco",
     "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rafaelhgreco/aurora-theme.git"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.105.0"
