@@ -225,6 +225,19 @@
             "settings": {
                 "foreground": "#EEFFFF"
             }
+        },
+        {
+            "name": "JSON",
+            "scope": [
+                "punctuation.support.type.property-name.end.json",
+                "support.type.property-name.json",
+                "string.json",
+                "meta.structure.dictionary.json",
+                "source.json"
+            ],
+            "settings": {
+                "foreground": "#959de9"
+            }
         }
     ]
 }
